@@ -1,5 +1,9 @@
 @import url(font-awesome.min.css);
 
+.inner p {
+	font-style: italic;
+}
+
 .features p {
 	font-style: italic;
 }
@@ -3112,6 +3116,18 @@
 		}
 
 		.spotlights > section:nth-child(3) {
+			background-color: rgba(0, 0, 0, 0.1);
+		}
+
+		.spotlights > section:nth-child(4) {
+			background-color: rgba(0, 0, 0, 0.05);
+		}
+
+		.spotlights > section:nth-child(6) {
+			background-color: rgba(0, 0, 0, 0.05);
+		}
+
+		.spotlights > section:nth-child(7) {
 			background-color: rgba(0, 0, 0, 0.1);
 		}
 
