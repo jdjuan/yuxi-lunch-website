@@ -1,5 +1,9 @@
 @import url(font-awesome.min.css);
 
+#acerca-de {
+	width: 100% !important;
+}
+
 .inner p {
 	font-style: italic;
 }
