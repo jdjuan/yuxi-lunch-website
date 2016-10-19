@@ -1,5 +1,33 @@
 @import url(font-awesome.min.css);
 
+.features p {
+	font-style: italic;
+}
+
+.testimonial1 {
+	background-image: url('../../images/yessica.jpg') !important;
+	background-position: 68px 159px !important;
+	background-size: 5rem !important;
+}
+
+.testimonial2 {
+	background-image: url('../../images/juan.jpg') !important;
+	background-position: 57px 159px !important;
+	background-size: 5rem !important;
+}
+
+.testimonial3 {
+	background-image: url('../../images/diana.jpg') !important;
+	background-position: 61px 161px !important;
+	background-size: 5rem !important;
+}
+
+.testimonial4 {
+	background-image: url('../../images/carolina.jpg') !important;
+	background-position: 61px 159px !important;
+	background-size: 5rem !important;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -3025,7 +3053,7 @@
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
+			width: 58em;
 		}
 
 			.spotlights > section > .image img {
